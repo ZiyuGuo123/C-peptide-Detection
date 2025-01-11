@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">C-peptide detection</string>
+    <string name="image_view_desc">Image View</string>
+</resources>
